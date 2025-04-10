@@ -1,0 +1,1 @@
+Run `uv run client.py ./mcp_server.py` to start server and client.
